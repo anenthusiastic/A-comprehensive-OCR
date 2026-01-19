@@ -1,6 +1,6 @@
-# Comprehensive OCR Application (Kapsamlı OCR Uygulaması)
+# PyTextVision (Desktop OCR App)
 
-Bu proje, Python ve Tesseract OCR motorunu kullanarak geliştirilmiş, kapsamlı bir Optik Karakter Tanıma (OCR) ve görüntü işleme aracıdır. Sadece düz metin okumakla kalmaz, aynı zamanda kredi kartı numarası ayıklama, plaka tanıma ve metin içi arama gibi özelleşmiş fonksiyonlar sunar.
+Bu proje, Python ve Tesseract OCR motorunu kullanarak geliştirilmiş, desktop için kapsamlı bir  Optik Karakter Tanıma (OCR) ve görüntü işleme aracıdır. Sadece düz metin okumakla kalmaz, aynı zamanda kredi kartı numarası ayıklama, plaka tanıma ve metin içi arama gibi özelleşmiş fonksiyonlar sunar.
 
 ## 🎯 Özellikler
 
